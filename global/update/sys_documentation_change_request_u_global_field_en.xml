@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_global_field" label="Global Field" language="en" table="change_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <claim/>
+            <element>u_global_field</element>
+            <help/>
+            <hint/>
+            <label>Global Field</label>
+            <language>en</language>
+            <name>change_request</name>
+            <plural>Global Fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 17:03:03</sys_created_on>
+            <sys_id>c642a98577120010ca3ab5b268106155</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Global Field</sys_name>
+            <sys_package display_value="GTable" source="6702e58577120010ca3ab5b268106126">6702e58577120010ca3ab5b268106126</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GTable">6702e58577120010ca3ab5b268106126</sys_scope>
+            <sys_update_name>sys_documentation_change_request_u_global_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 17:03:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
